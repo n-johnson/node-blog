@@ -1,0 +1,21 @@
+{
+	"posts": [{
+		"id": 3,
+		"title": "Test title 3",
+		"body": "asdfasdf",
+		"date": 12312312,
+		"image": "/img/path/here"
+	}, {
+		"id": 2,
+		"title": "Test title 2",
+		"body": "asdfasdf",
+		"date": 12312312,
+		"image": "/img/path/here"
+	}, {
+		"id": 1,
+		"title": "Test title 1",
+		"body": "asdfasdf",
+		"date": 12312312,
+		"image": "/img/path/here"
+	}]
+}
